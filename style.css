@@ -1,0 +1,79 @@
+body{
+    margin: 0px;
+}
+h1{
+    color: red;
+}
+.half-width{
+    width: 35%;
+    float: left;
+    margin-left: 4%;
+    padding: 2%;
+    
+}
+.one-third{
+    width: 32%;
+    float: left;
+    margin-left: 1%;
+}
+
+
+.top{
+    background-image: url(images/header-bg.png);
+    background-position: left ;
+    background-size: 1250px;
+    background-repeat: no-repeat;
+    
+    
+
+}
+.biography{
+    background-image: url(images/biography-bg.png);
+    background-position: right;
+    background-size: 1400px;
+    
+}
+section{
+    height: 500px;
+    padding-bottom: 100px;
+    border: red 10px;
+}
+.main{
+    width: 100%;
+    
+}
+.link-button{
+    text-decoration: none;
+    color:white;
+    background-color: red;
+    padding: 10px 20px;
+}
+img{
+    width: 100%;
+}
+.latest-work{
+    background-image: url(images/latest-work-bg.png);
+    background-size: 1400px;
+    background-position: inherit;
+
+}
+.foot{
+    background-image: url(images/footer-bg.png);
+
+
+}
+.laste{
+    border: solid;
+    margin-left: 350px;
+    margin-right: 350px;
+    padding-left: 100px;
+    padding-right: 100px;
+    background-color: red;
+    color: white;
+}
+.finish{
+    text-align: center;
+}
+footer{
+    text-align: center;
+}
